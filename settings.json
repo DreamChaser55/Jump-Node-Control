@@ -1,0 +1,9 @@
+{
+  "screen_resolution.x": 3540,
+  "screen_resolution.y": 1860,
+  "windowed": true,
+  "camera_scrolling_speed": 10.0,
+  "fps_cap": 0.0,
+  "camera_smoothing_factor": 8.0,
+  "num_of_systems": 10
+}
